@@ -4,3 +4,4 @@
 4. Processing_v2.py contains the code for creating patch statistics' intervals according to public dataset
 5. Recover_Adapter.py recovers the patches from adapter gradients
 6. Clustering.py groups the recovered patches to create the entire images (motivated by Fowl et. al., 2023)
+7. The folder "Optimization Attack" contains code for optimization-based attack (Geiping et. al., 2020)
