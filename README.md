@@ -4,7 +4,8 @@
 
 This repository contains the code associated with the attack propsed in the paper.
 
-# Run the file Adapter_attack.ipynb. That will call functions from the following files.
+## How to Run
+1. Run the file Adapter_attack.ipynb. That will call functions from the following files.
 2. Transformer_Model_neuron.py contains the architecture with inserted adapter module
 3. Design_Model_Adapter.py contains the code for malicious design of the parameters
 4. Processing_v2.py contains the code for creating patch statistics' intervals according to public dataset
