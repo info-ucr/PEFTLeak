@@ -1,3 +1,9 @@
+# Gradient Inversion Attacks on Parameter-Efficient Fine-Tuning
+
+<img src="CIFAR100.png" width="600"/>
+
+This repository contains the code and experiments associated with the paper.
+
 1. Run the file Adapter_attack.ipynb. That will call functions from the following files.
 2. Transformer_Model_neuron.py contains the architecture with inserted adapter module
 3. Design_Model_Adapter.py contains the code for malicious design of the parameters
