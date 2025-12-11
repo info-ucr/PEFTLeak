@@ -4,13 +4,7 @@
 
 This repository contains the code associated with the attack propsed in the paper.
 
-## Requirements
-- Python >= 3.9
-- PyTorch >= 2.0
-- NumPy
-- scikit-learn
-- torchvision
-- matplotlib
+
 
 
 ## How to Run
